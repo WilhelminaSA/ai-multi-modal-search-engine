@@ -1,0 +1,14 @@
+venv/
+
+dataset/
+uploads/
+database/
+
+**pycache**/
+*.pyc
+
+.idea/
+.vscode/
+
+*.faiss
+*.npy
