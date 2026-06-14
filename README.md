@@ -105,39 +105,25 @@ FAISS Search
 
 Similar Images
 
----
-
 ## Project Structure
 
+```text
 ai-multi-modal-search-engine/
-
-├── src/
-
-│   ├── build_image_index.py
-
-│   ├── config.py
-
-│   ├── download_model.py
-
-│   ├── extract_embeddings.py
-
-│   ├── image_search.py
-
-│   ├── text_search.py
-
-│   ├── update_index.py
-
-│   └── utils_index_tracker.py
-
 │
-
+├── src/
+│   ├── build_image_index.py
+│   ├── config.py
+│   ├── download_model.py
+│   ├── extract_embeddings.py
+│   ├── image_search.py
+│   ├── text_search.py
+│   ├── update_index.py
+│   └── utils_index_tracker.py
+│
 ├── requirements.txt
-
 ├── README.md
-
 └── .gitignore
-
----
+```
 
 ## Installation
 
